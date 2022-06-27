@@ -1,6 +1,6 @@
 # Jennifer's Portfolio
 
-# Project 1: Rakuten Viki Data Exploration](https://github.com/JenniferFell1/rakuten_viki.git)   
+# [Project 1: Rakuten Viki Data Exploration](https://github.com/JenniferFell1/rakuten_viki.git)   
 
 👆🏾 Link to project details above
 
