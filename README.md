@@ -1,8 +1,8 @@
 # Jennifer's Portfolio
 
-# U+1F449 Link Project 1: Rakuten Viki Data Exploration](https://github.com/JenniferFell1/rakuten_viki.git)   
+# Project 1: Rakuten Viki Data Exploration](https://github.com/JenniferFell1/rakuten_viki.git)   
 
-👆🏾 Link above
+👆🏾 Link to project details above
 
 This project analyizes two datasets containing content information on the streaming website Rakuten Viki. 
 
