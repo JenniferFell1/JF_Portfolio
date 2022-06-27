@@ -10,4 +10,4 @@ This project analyizes two datasets containing content information on the stream
 * The project write up is published on **Medium
 
 ## Distribution of TV shows per Year
-![](images/dis_of_show.png)
+![](dis_of_show.png)
