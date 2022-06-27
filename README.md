@@ -2,7 +2,7 @@
 
 # [Project 1: Rakuten Viki Data Exploration](https://github.com/JenniferFell1/rakuten_viki.git)   
 
-👆🏾 Link to project details above
+⬆️ Link to project details above
 
 This project analyizes two datasets containing content information on the streaming website Rakuten Viki. 
 
@@ -13,3 +13,4 @@ This project analyizes two datasets containing content information on the stream
 
 ## Distribution of TV shows per Year
 ![](dis_of_show.png)
+
