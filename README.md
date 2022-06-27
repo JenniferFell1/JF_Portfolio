@@ -4,7 +4,7 @@
 
 ⬆️ Link to project details above
 
-This project analyizes two datasets containing content information on the streaming website Rakuten Viki. 
+This project analyzes two datasets containing content information on the streaming website Rakuten Viki. 
 
 * Data was downloaded from Kaggle
 * Data cleaning completed in Microsoft Excel
