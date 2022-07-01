@@ -14,7 +14,7 @@ This project analyzes two datasets containing content information on the streami
 ### Distribution of TV shows per Year
 ![](dis_of_show.png)
 
-# [Project 2: COVID-19 Global Data Report](https://github.com/JenniferFell1/COVID-19-SQL.git)
+# [Project 2: COVID-19 Global Data Report](https://github.com/JenniferFell1/COVID-19-Project.git)
 
 ⬆️ Link to project details above
 
