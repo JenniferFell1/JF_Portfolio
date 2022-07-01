@@ -9,7 +9,7 @@ This project analyzes two datasets containing content information on the streami
 * Data was downloaded from Kaggle
 * Data cleaning completed in Microsoft Excel
 * Data exploration and analysis completed in Jupyter Notebook using Python
-* The project write up is published on **Medium
+* The project findings completed in Apple Keynote
 
 ### Distribution of TV shows per Year
 ![](dis_of_show.png)
