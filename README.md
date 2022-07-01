@@ -18,7 +18,7 @@ This project analyzes two datasets containing content information on the streami
 
 ⬆️ Link to project details above
 
-This project analyzes two COVID-19 dataset containing global data on COVID-19 cases, deaths and vaccinations from January 2020 to June 2022.   
+This project analyzes two COVID-19 datasets containing global data on COVID-19 cases, deaths and vaccinations from January 2020 to June 2022.   
 
 * Data was downloaded from ourworldindata.org
 * Data cleaning completed in Microsoft Excel
