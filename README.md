@@ -14,3 +14,13 @@ This project analyzes two datasets containing content information on the streami
 ### Distribution of TV shows per Year
 ![](dis_of_show.png)
 
+# Project 2: COVID-19 Global Data Report
+
+⬆️ Link to project details above
+
+This project analyzes two COVID-19 dataset containing global data on COVID-19 cases, deaths and vaccinations from January 2020 to June 2022.   
+
+* Data was downloaded from ourworldindata.org/covid-deaths
+* Data cleaning completed in Microsoft Excel
+* Data was queried using SQL in Google BigQuery
+* Data visualization completed in Tableau Public
