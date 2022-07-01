@@ -24,3 +24,6 @@ This project analyzes two COVID-19 dataset containing global data on COVID-19 ca
 * Data cleaning completed in Microsoft Excel
 * Data was queried using SQL in Google BigQuery
 * Data visualization completed in Tableau Public
+
+### Percent Population Infected per Country
+![](COVID19.png)
